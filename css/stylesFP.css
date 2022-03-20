@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(43, 6, 68);
+  font-style: normal;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: blanchedalmond;
+  font-size: 40px;
+  text-align: center;
+  line-height: 50px;
+}
+
+h2 {
+  color: blanchedalmond;
+  font-size: 30px;
+  text-align: center;
+  line-height: 40px;
+}
+
+p {
+  color: rgb(147, 129, 163); 
+  text-align: center;
+}
+
+ul {
+  color: rgb(147, 129, 163);
+  text-align: left;
+}
